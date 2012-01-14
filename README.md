@@ -1,0 +1,1 @@
+#Nexus-Adventures#A plugin based off Multiverse-Adventures.Made for and by Nexus Gaming#What Is It?#Nexus-Adventures is based off the plugin Multiverse-Adventures.Just edited to suit our needs.
