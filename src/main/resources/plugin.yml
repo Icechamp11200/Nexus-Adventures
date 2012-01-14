@@ -1,0 +1,40 @@
+name: Multiverse-Adventure
+main: com.onarandombox.MultiverseAdventure.MultiverseAdventure
+author: main()
+version: maven-version-number
+depend: ['Multiverse-Core']
+softdepend: ['Multiverse-Portals']
+commands:
+  mva:
+    description: Generic Multiverse-Adventure Command
+    usage: /<command>
+  mvaenable:
+    description: Generic Multiverse-Adventure Command
+    usage: /<command>
+  mvamodify:
+    description: Generic Multiverse-Adventure Command
+    usage: /<command>
+  mvadisable:
+    description: Generic Multiverse-Adventure Command
+    usage: /<command>
+  mvawrite:
+    description: Generic Multiverse-Adventure Command
+    usage: /<command>
+  mvaflush:
+    description: Generic Multiverse-Adventure Command
+    usage: /<command>
+  mvawritetemplate:
+    description: Generic Multiverse-Adventure Command
+    usage: /<command>
+  mvareset:
+    description: Generic Multiverse-Adventure Command
+    usage: /<command>
+  mvaset:
+    description: Generic Multiverse-Adventure Command
+    usage: /<command>
+  mvasettemplate:
+    description: Generic Multiverse-Adventure Command
+    usage: /<command>
+  mvalist:
+    description: Generic Multiverse-Adventure Command
+    usage: /<command>
