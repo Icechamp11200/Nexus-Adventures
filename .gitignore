@@ -1,0 +1,13 @@
+target
+.idea
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings
+
+# Old stuff :/
+README
+
+# NetBeans
